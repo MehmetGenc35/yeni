@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b48049b-76e7-4762-bf68-dc97fe0556e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/KelimeTahminOyunu/deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/FilmiTahminEt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/FilmiTahminEt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/deneme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/deneme.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="66" column="59" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
+            <state relative-caret-position="167">
+              <caret line="61" column="54" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,10 +29,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/deneme.java">
+        <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+            <state relative-caret-position="918">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="72" column="22" selection-start-line="58" selection-start-column="8" selection-end-line="72" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,6 +112,8 @@
         <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/DENEME.java" />
         <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java" />
         <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/deneme.java" />
+        <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme.java" />
+        <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java" />
       </list>
     </option>
   </component>
@@ -114,8 +131,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,7 +158,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1695584391261" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1695590184443" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
@@ -161,7 +178,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.deneme">
+  <component name="RunManager" selected="Application.Deneme2">
+    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KelimeTahminOyunu.Deneme" />
+      <module name="SSG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KelimeTahminOyunu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deneme2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KelimeTahminOyunu.Deneme2" />
+      <module name="SSG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KelimeTahminOyunu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DepoRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProjeÇalışması.DepoRunner" />
       <module name="SSG" />
@@ -188,32 +231,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kütüphane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorular.kütüphane.Kütüphane" />
-      <module name="SSG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sorular.kütüphane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Restaurnt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DersTekrar.Restaurnt" />
-      <module name="SSG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DersTekrar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KelimeTahminOyunu.deneme" />
       <module name="SSG" />
@@ -229,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Deneme2" />
+        <item itemvalue="Application.Deneme" />
         <item itemvalue="Application.deneme" />
         <item itemvalue="Application.FilmiTahminEt" />
         <item itemvalue="Application.DepoRunner" />
-        <item itemvalue="Application.Kütüphane" />
-        <item itemvalue="Application.Restaurnt" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +271,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.15885022" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.16111952" />
       <window_info id="Structure" order="1" sideWeight="0.5021645" side_tool="true" weight="0.15885022" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -552,13 +569,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/KelimeTahminOyunu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/KelimeTahminOyunu.java" />
     <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/StringLatin1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -573,20 +584,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java">
+    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="66" column="59" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
+        <state relative-caret-position="321">
+          <caret line="72" column="22" selection-start-line="58" selection-start-column="8" selection-end-line="72" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/deneme.java">
+    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        <state relative-caret-position="167">
+          <caret line="61" column="54" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
