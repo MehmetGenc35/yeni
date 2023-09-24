@@ -1,6 +1,5 @@
 package ProjeÇalışması;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class DepoRunner {
@@ -47,16 +46,16 @@ public class DepoRunner {
                     ds.productIdentification();
                     break;
                 case 2:
-                    //Ürün tanımlama
+                    ds.urunListele();
                     break;
                 case 3:
-                    //Ürün tanımlama
+                    ds.urunEkle();
                     break;
                 case 4:
-                    //Ürün tanımlama
+                    ds.urunuRafaKoy();
                     break;
                 case 5:
-                    //Ürün tanımlama
+                    ds.urunCıkısı();
                     break;
                 case 0:
                     System.out.println("Tekrar bekleriz, iyi günler...");

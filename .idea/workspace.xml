@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b48049b-76e7-4762-bf68-dc97fe0556e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OgrenciNotSistemi/OgrenciSınavNotuHesaplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSG/lambda_practice/C0_Lambda_Aciklamalar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjeÇalışması/Depo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjeÇalışması/Depo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjeÇalışması/DepoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjeÇalışması/DepoRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProjeÇalışması/DepoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjeÇalışması/DepoService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Class01.java">
+        <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -73,10 +78,13 @@
         <option value="$PROJECT_DIR$/src/Sorular/kütüphane/Kitap.java" />
         <option value="$PROJECT_DIR$/src/Sorular/kütüphane/Kütüphane.java" />
         <option value="$PROJECT_DIR$/src/Sorular/kütüphane/KitapService.java" />
+        <option value="$PROJECT_DIR$/src/Class01.java" />
+        <option value="$PROJECT_DIR$/src/OgrenciSınavNotuHesaplama.java" />
+        <option value="$PROJECT_DIR$/src/OgrenciNotSistemi/OgrenciSınavNotuHesaplama.java" />
+        <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java" />
         <option value="$PROJECT_DIR$/src/ProjeÇalışması/Depo.java" />
         <option value="$PROJECT_DIR$/src/ProjeÇalışması/DepoRunner.java" />
         <option value="$PROJECT_DIR$/src/ProjeÇalışması/DepoService.java" />
-        <option value="$PROJECT_DIR$/src/Class01.java" />
       </list>
     </option>
   </component>
@@ -86,14 +94,14 @@
     <option name="width" value="699" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,15 +114,28 @@
               <item name="SSG" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SSG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="KelimeTahminOyunu" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1695385412337" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1695555397275" />
     <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OgrenciNotSistemi" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,7 +242,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15204236" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15658094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -230,12 +251,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24712643" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24632953" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32952693" />
@@ -249,7 +270,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15204236" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15658094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -258,12 +279,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2805873" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24632953" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32952693" />
@@ -471,17 +492,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/soru.java">
+    <entry file="file://$PROJECT_DIR$/src/OgrenciSınavNotuHesaplama.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="143" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="143" />
+        <state relative-caret-position="184">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/SSG/lambda_practice/C0_Lambda_Aciklamalar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OgrenciNotSistemi/OgrenciSınavNotuHesaplama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-343">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/Depo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+        <state relative-caret-position="233">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="33" />
           <folding>
             <element signature="e#1145#1146#0" expanded="true" />
             <element signature="e#1172#1173#0" expanded="true" />
@@ -489,30 +533,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/DepoRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/DepoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="116">
+          <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class01.java">
+    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/DepoRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="233">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/soru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="26" column="134" lean-forward="true" selection-start-line="25" selection-start-column="60" selection-end-line="26" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>

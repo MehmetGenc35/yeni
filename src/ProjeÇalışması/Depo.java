@@ -67,7 +67,7 @@ public class Depo {
 
     @Override
     public String toString() {
-        return "Depo{" +
+        return
                 "id='" + id + '\'' +
                 ", productName='" + productName + '\'' +
                 ", producerName='" + producerName + '\'' +

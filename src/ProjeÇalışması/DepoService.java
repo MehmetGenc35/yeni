@@ -1,9 +1,6 @@
 package ProjeÇalışması;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class DepoService {
     Scanner input= new Scanner(System.in);
@@ -61,9 +58,77 @@ public class DepoService {
         }while(optional!=0);
 
         DepoRunner.start();
+    }
+    //urunListele     ==> tanimlanan urunler listelenecek. urunun adeti ve raf numarasi tanimlama yapilmadiysa default deger gorunsun.
+    public void urunListele(){
+        System.out.printf("%-8s %-15s %-15s %-15s %-15s %-15s\n", "Ürün ID", "Ürün Adı", "Üretici", "Miktar", "Birim", "Raf");
+        System.out.printf("-------------------------------------------------------------------------------------\n");
+        Set<String> sorted = productList.keySet();
+        List<String> productIdsAsList = new ArrayList<>(sorted);
+        Collections.sort(productIdsAsList);//?? anlamadım
+        for (String w : productIdsAsList) {
+            Depo p = this.productList.get(w);
+            System.out.printf("%-8s %-15s %-15s %-15s %-15s %-15s\n",
+                    p.getId(),
+                    p.getProductName(),
+                    p.getProducerName(),
+                    p.getAmount(),
+                    p.getUnit(),
+                    p.getShelf());
+        }
+        DepoRunner.start();
 
 
+    }
+    public void urunEkle() {
+        System.out.println();
+        System.out.println("Ürün id'sini giriniz");
+        String id = input.nextLine();
+        Depo product = this.productList.get(id);
+        if (product != null) {
+            System.out.println("Miktarı giriniz:");
+            int miktar = input.nextInt();
+            miktar += product.getAmount();
+            product.setAmount(miktar);
+            String dummy = input.nextLine();
+        } else
+            System.out.println("Ürün Bulunamadı!");
+        this.urunListele();
+    }
+    public void urunuRafaKoy() {
+        System.out.println();
+        System.out.println("Ürün id'sini giriniz");
+        String id = input.nextLine();
+        Depo product = this.productList.get(id);
+        if (product != null) {
+            System.out.println("Raf giriniz:");
+            String raf = input.nextLine();
+            product.setShelf(raf);
 
+        } else
+            System.out.println("Ürün Bulunamadı!");
+        this.urunListele();
+    }
+    public void urunCıkısı() {
+        System.out.println("Ürün id'sini giriniz");
+        String id = input.nextLine();
+
+        Depo product = this.productList.get(id);
+        if (product != null) {
+            System.out.println("Çıkarmak istediğiniz miktarı giriniz:");
+            int miktar = input.nextInt();
+            String dummy = input.nextLine();
+            if (miktar > product.getAmount()) {
+                System.out.println("\nStokta girdiğiniz kadar ürün bulunmamaktadır. \n Stok 0 olarak güncellendi.");
+                product.setAmount(0);
+            } else {
+
+                miktar = product.getAmount() - miktar;
+                product.setAmount(miktar);
+            }
+        } else
+            System.out.println("Ürün Bulunamadı !");
+        this.urunListele();
     }
 
 
