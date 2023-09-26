@@ -67,13 +67,6 @@ kullanıcının kaybedip veya kazandığını ve tahmin etmesi gereken filmin is
         }while(game!=0);
 
 
-
-
-
-
-
-
-
     }
     public static String limitOfToken(String movie,List<Character> guessList){
         String result="";
@@ -84,6 +77,7 @@ kullanıcının kaybedip veya kazandığını ve tahmin etmesi gereken filmin is
                 result=result.concat(currentChar.toString());
             }else{
                 result=result.concat("_");
+
             }
         }
         return result;
