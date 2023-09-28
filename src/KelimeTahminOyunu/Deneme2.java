@@ -32,35 +32,42 @@ kullanıcının kaybedip veya kazandığını ve tahmin etmesi gereken filmin is
         do{
             System.out.print("Lütfen 0 ve 8 arası bir sayı seçiniz\n (0 dahil 8 dahil değil) --> ");
             int option=input.nextInt();
-            String optionMovie=film.get(option);
-            System.out.println("Seçtiğiniz film "+optionMovie.length()+" harften oluşmaktadır...");
-            System.out.println("Filmi tahmin etmek için "+(optionMovie.length()*2)+" harf söyleme hakkınız bulunmaktadır");
+            if(option>=0 && option<8){
 
-            String maskedWord=limitOfToken(optionMovie,guessList);
-            System.out.println(maskedWord);
+                String optionMovie=film.get(option);
+                System.out.println("Seçtiğiniz film "+optionMovie.length()+" harften oluşmaktadır...");
+                System.out.println("Filmi tahmin etmek için "+(optionMovie.length()*2)+" harf söyleme hakkınız bulunmaktadır");
 
-            for (int i=optionMovie.length()*2; i>=0  ; i--) {
-                System.out.println("Kalan hakkınız "+i);
-                if(i==0){
-                    System.out.println("Bütün haklarınızı kullandınız...");
-                    System.out.println("Oyunu kaybettiniz!!!");
-                    break;
-                }
-
-                System.out.println("Lütfen bir harf giriniz");
-                String guess=input.next().toUpperCase();
-
-                guessList.add(guess.charAt(0));
-
-                maskedWord=limitOfToken(optionMovie,guessList);
+                String maskedWord=limitOfToken(optionMovie,guessList);
                 System.out.println(maskedWord);
 
-                if (maskedWord.equals(optionMovie)){
-                    System.out.println(optionMovie);
-                    System.out.println("Oyunu kazandınız!!!");
-                    break;
+                for (int i=optionMovie.length()*2; i>=0  ; i--) {
+                    System.out.println("Kalan hakkınız "+i);
+                    if(i==0){
+                        System.out.println("Bütün haklarınızı kullandınız...");
+                        System.out.println("Oyunu kaybettiniz!!!");
+                        break;
+                    }
+
+                    System.out.println("Lütfen bir harf giriniz");
+                    String guess=input.next().toUpperCase();
+
+                    guessList.add(guess.charAt(0));
+
+                    maskedWord=limitOfToken(optionMovie,guessList);
+                    System.out.println(maskedWord);
+
+                    if (maskedWord.equals(optionMovie)){
+                        System.out.println(optionMovie);
+                        System.out.println("Oyunu kazandınız!!!");
+                        break;
+                    }
                 }
+
+            }else{
+                System.out.println("Hatalı bir giriş yaptınız...");
             }
+
             System.out.println("Tekrar oynamak ister misiniz, Seçiniz\n 1-Evet   0-Hayır");
             game=input.nextInt();
 

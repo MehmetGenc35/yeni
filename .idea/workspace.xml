@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b48049b-76e7-4762-bf68-dc97fe0556e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AIkiKisilikOyun/Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AOkulSistemi/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AYolculuk/TicketRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AYolculuk/Yolcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aencupsolution/Soru.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/Deneme2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/Deneme2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/FilmTahminEtmeOyunu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/FilmTahminEtmeOyunu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSG/OgrenciNotSistemi/OgrenciSınavNotuHesaplama.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class01.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmTahminEtmeOyunu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmTahminEtmeOyunu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OgrenciNotSistemi/OgrenciSınavNotuHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AOgrenciNotSistemi/OgrenciSınavNotuHesaplama.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,14 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AOgrenciNotSistemi/OgrenciSınavNotuHesaplama.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-141">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AIkiKisilikOyun/Soru.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -43,9 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sorular/Soru01.java" />
-        <option value="$PROJECT_DIR$/src/Sorular/Soru02.java" />
-        <option value="$PROJECT_DIR$/src/Sorular/Soru03.java" />
         <option value="$PROJECT_DIR$/src/Sorular/soru04.java" />
         <option value="$PROJECT_DIR$/src/Sorular/soru05MarketAlısveris.java" />
         <option value="$PROJECT_DIR$/src/Bakkal/BakkalKAzanc.java" />
@@ -89,8 +101,14 @@
         <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java" />
         <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/deneme.java" />
         <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme.java" />
-        <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmTahminEtmeOyunu.java" />
+        <option value="$PROJECT_DIR$/src/Yolculuk/Soru.java" />
         <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java" />
+        <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmTahminEtmeOyunu.java" />
+        <option value="$PROJECT_DIR$/src/IkiKisilikOyun/Soru.java" />
+        <option value="$PROJECT_DIR$/src/AOkulSistemi/Course.java" />
+        <option value="$PROJECT_DIR$/src/AYolculuk/Yolcu.java" />
+        <option value="$PROJECT_DIR$/src/AYolculuk/TicketRunner.java" />
+        <option value="$PROJECT_DIR$/src/Aencupsolution/Soru.java" />
       </list>
     </option>
   </component>
@@ -108,8 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,16 +142,18 @@
               <item name="SSG" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSG" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="KelimeTahminOyunu" type="462c0819:PsiDirectoryNode" />
+              <item name="AIkiKisilikOyun" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1695647888115" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1695844404565" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
@@ -155,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Deneme2">
+  <component name="RunManager" selected="Application.TicketRunner">
     <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KelimeTahminOyunu.Deneme" />
       <module name="SSG" />
@@ -195,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilmiTahminEt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KelimeTahminOyunu.FilmiTahminEt" />
+    <configuration name="TicketRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AYolculuk.TicketRunner" />
       <module name="SSG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KelimeTahminOyunu.*" />
+          <option name="PATTERN" value="AYolculuk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Deneme2" />
+        <item itemvalue="Application.TicketRunner" />
         <item itemvalue="Application.FilmTahminEtmeOyunu" />
+        <item itemvalue="Application.Deneme2" />
         <item itemvalue="Application.Deneme" />
         <item itemvalue="Application.deneme" />
-        <item itemvalue="Application.FilmiTahminEt" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +266,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.16792738" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.15204236" />
       <window_info id="Structure" order="1" sideWeight="0.5021645" side_tool="true" weight="0.15885022" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -275,76 +293,8 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15658094" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24632953" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32952693" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32952693" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sorular/Soru02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="16" column="36" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorular/Soru03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorular/soru04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorular/soru05MarketAlısveris.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="133" selection-start-line="19" selection-start-column="133" selection-end-line="19" selection-end-column="133" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BakkalKAzanç.java" />
-    <entry file="file://$PROJECT_DIR$/src/Sorular/Soru01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bakkal/BakkalBilgiler.java" />
     <entry file="file://$USER_HOME$/Downloads/Kahve.java" />
     <entry file="file://$USER_HOME$/Downloads/KahveAppRunner.java" />
     <entry file="file://$PROJECT_DIR$/src/KahveMAkinesi/Kahve.java">
@@ -499,21 +449,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OgrenciSınavNotuHesaplama.java" />
-    <entry file="file://$PROJECT_DIR$/src/Class01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/SSG/lambda_practice/C0_Lambda_Aciklamalar.class" />
-    <entry file="file://$PROJECT_DIR$/src/OgrenciNotSistemi/OgrenciSınavNotuHesaplama.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-343">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/Depo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -572,10 +508,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/InfoProject" />
     <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/FilmTahminEtmeOyunu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="177">
+          <caret line="42" column="62" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -584,11 +521,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="99">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/InfoProject">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/OkulApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/AYolculuk/Yolcu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AYolculuk/TicketRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class01.java" />
+    <entry file="file://$PROJECT_DIR$/src/Aencupsolution/Soru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOgrenciNotSistemi/OgrenciSınavNotuHesaplama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AIkiKisilikOyun/Soru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
         </state>
       </provider>
     </entry>

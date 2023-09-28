@@ -33,11 +33,16 @@ kullanıcının kaybedip veya kazandığını ve tahmin etmesi gereken filmin is
             System.out.print("Lütfen 0 ve 8 arası bir sayı seçiniz\n (0 dahil 8 dahil değil) --> ");
             int option = input.nextInt();
             String optionMovie = film.get(option);
-            System.out.println("_ ".repeat(optionMovie.length()));
-            System.out.println("Seçtiğiniz film " + optionMovie.length() + " harften oluşmaktadır...");
-            System.out.println("Filmi tahmin etmek için " + (optionMovie.length() * 2) + " harf söyleme hakkınız bulunmaktadır");
+            if(option>=0 && option<8){
+                System.out.println("_ ".repeat(optionMovie.length()));
+                System.out.println("Seçtiğiniz film " + optionMovie.length() + " harften oluşmaktadır...");
+                System.out.println("Filmi tahmin etmek için " + (optionMovie.length() * 2) + " harf söyleme hakkınız bulunmaktadır");
 
-            limitOfToken(optionMovie);
+                limitOfToken(optionMovie);
+            }else{
+                System.out.println("Hatalı bir giriş yaptınız!");
+            }
+
 
             System.out.println("Tekrar oynamak ister misiniz, Seçiniz\n 1-Evet   0-Hayır");
             game=input.nextInt();

@@ -1,4 +1,4 @@
-package OgrenciNotSistemi;
+package AOgrenciNotSistemi;
 
 public class OgrenciSınavNotuHesaplama {
     /*
