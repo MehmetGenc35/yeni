@@ -2,19 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b48049b-76e7-4762-bf68-dc97fe0556e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AIkiKisilikOyun/Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AOkulSistemi/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AYolculuk/TicketRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AYolculuk/Yolcu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aencupsolution/Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AABiletRezervasyon/BiletRezervasyonApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AABiletRezervasyon/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AABiletRezervasyon/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AABiletRezervasyon/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AABiletRezervasyon/Yolcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AABiletRezervasyon/YolcuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAracSigortaApp/Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAracSigortaApp/AracSigortaAplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATicket/Bilet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATicket/BiletService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATicket/TicketRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATicket/Yolcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATicket/YolcuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BiletRezevasyon/BiletRezevasyonApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BiletRezevasyon/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BiletRezevasyon/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BiletRezevasyon/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BiletRezevasyon/Yolcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BiletRezevasyon/YolcuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoginPage/LoginPageApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoginPage/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoginPage/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPAracSigortaApp/Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPAracSigortaApp/AracServis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPAracSigortaApp/AracSigortaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPAracSigortaApp/Kamyon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPAracSigortaApp/Motorsiklet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPAracSigortaApp/Otobüs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPAracSigortaApp/Otomobil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/Deneme2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/Deneme2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/FilmTahminEtmeOyunu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSG/KelimeTahminOyunu/FilmTahminEtmeOyunu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSG/OgrenciNotSistemi/OgrenciSınavNotuHesaplama.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmTahminEtmeOyunu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmTahminEtmeOyunu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OgrenciNotSistemi/OgrenciSınavNotuHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AOgrenciNotSistemi/OgrenciSınavNotuHesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSG/AOkulSistemi/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSG/AOkulSistemi/OkulApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSG/Class01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AOkulSistemi/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AOkulSistemi/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AOkulSistemi/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,19 +48,38 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AOgrenciNotSistemi/OgrenciSınavNotuHesaplama.java">
+        <entry file="file://$PROJECT_DIR$/src/LoginPage/LoginPageApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-141">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="748">
+              <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LoginPage/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AIkiKisilikOyun/Soru.java">
+        <entry file="file://$PROJECT_DIR$/src/LoginPage/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="1292">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,6 +89,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -58,43 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sorular/soru04.java" />
-        <option value="$PROJECT_DIR$/src/Sorular/soru05MarketAlısveris.java" />
-        <option value="$PROJECT_DIR$/src/Bakkal/BakkalKAzanc.java" />
-        <option value="$PROJECT_DIR$/src/Bakkal/BakkalBilgiler.java" />
-        <option value="$PROJECT_DIR$/src/Bakkal/BakkalKazanc.java" />
-        <option value="$PROJECT_DIR$/src/KahveMAkinesi/KahveRunner.java" />
-        <option value="$PROJECT_DIR$/src/KahveMAkinesi/Kahve.java" />
-        <option value="$PROJECT_DIR$/src/Deneme/PolindromSayı.java" />
-        <option value="$PROJECT_DIR$/src/LOCALDATETİME/LocalDateTime.java" />
-        <option value="$PROJECT_DIR$/src/ProjeÇalışması/IdNumber.java" />
-        <option value="$PROJECT_DIR$/src/ProjeÇalışması/soru.java" />
-        <option value="$PROJECT_DIR$/src/ProjeÇalışması/Urunler.java" />
-        <option value="$PROJECT_DIR$/src/ProjeÇalışması/Product.java" />
-        <option value="$PROJECT_DIR$/src/ProjeÇalışması/Urun.java" />
-        <option value="$PROJECT_DIR$/src/ProjeÇalışması/Runner.java" />
-        <option value="$PROJECT_DIR$/src/ProjeÇalışması/UrunService.java" />
-        <option value="$PROJECT_DIR$/src/DersTekrar/Dish.java" />
-        <option value="$PROJECT_DIR$/src/DersTekrar/Restaurnt.java" />
-        <option value="$PROJECT_DIR$/src/DersTekrar/DishService.java" />
-        <option value="$PROJECT_DIR$/src/DersTekrar/OrderService.java" />
-        <option value="$PROJECT_DIR$/src/KendinYap/Soru.java" />
-        <option value="$PROJECT_DIR$/src/KendinYap/Dish.java" />
-        <option value="$PROJECT_DIR$/src/KendinYap/Restaurant.java" />
-        <option value="$PROJECT_DIR$/src/KendinYap/DishService.java" />
-        <option value="$PROJECT_DIR$/src/DersTekrar/Order.java" />
-        <option value="$PROJECT_DIR$/src/KendinYap/Order.java" />
-        <option value="$PROJECT_DIR$/src/KendinYap/OrderService.java" />
-        <option value="$PROJECT_DIR$/src/Sorular/soru6.java" />
-        <option value="$PROJECT_DIR$/src/Sorular/kütüphane/soru6.java" />
-        <option value="$PROJECT_DIR$/src/Sorular/kütüphane/Kitap.java" />
-        <option value="$PROJECT_DIR$/src/Sorular/kütüphane/Kütüphane.java" />
-        <option value="$PROJECT_DIR$/src/Sorular/kütüphane/KitapService.java" />
-        <option value="$PROJECT_DIR$/src/Class01.java" />
-        <option value="$PROJECT_DIR$/src/OgrenciSınavNotuHesaplama.java" />
-        <option value="$PROJECT_DIR$/src/OgrenciNotSistemi/OgrenciSınavNotuHesaplama.java" />
-        <option value="$PROJECT_DIR$/src/ProjeÇalışması/Depo.java" />
-        <option value="$PROJECT_DIR$/src/ProjeÇalışması/DepoRunner.java" />
         <option value="$PROJECT_DIR$/src/ProjeÇalışması/DepoService.java" />
         <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/KelimeTahminOyunu.java" />
         <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/DENEME.java" />
@@ -105,10 +110,47 @@
         <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java" />
         <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmTahminEtmeOyunu.java" />
         <option value="$PROJECT_DIR$/src/IkiKisilikOyun/Soru.java" />
-        <option value="$PROJECT_DIR$/src/AOkulSistemi/Course.java" />
         <option value="$PROJECT_DIR$/src/AYolculuk/Yolcu.java" />
         <option value="$PROJECT_DIR$/src/AYolculuk/TicketRunner.java" />
         <option value="$PROJECT_DIR$/src/Aencupsolution/Soru.java" />
+        <option value="$PROJECT_DIR$/src/AOkulSistemi/Student.java" />
+        <option value="$PROJECT_DIR$/src/AOkulSistemi/Course.java" />
+        <option value="$PROJECT_DIR$/src/AOkulSistemi/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/AOkulSistemi/TeacherService.java" />
+        <option value="$PROJECT_DIR$/src/AOkulSistemi/CourseService.java" />
+        <option value="$PROJECT_DIR$/src/AOkulSistemi/Main.java" />
+        <option value="$PROJECT_DIR$/src/ATicket/Yolcu.java" />
+        <option value="$PROJECT_DIR$/src/ATicket/Bilet.java" />
+        <option value="$PROJECT_DIR$/src/ATicket/TicketRunner.java" />
+        <option value="$PROJECT_DIR$/src/ATicket/BiletService.java" />
+        <option value="$PROJECT_DIR$/src/ATicket/YolcuService.java" />
+        <option value="$PROJECT_DIR$/src/AAracSigortaApp/AracSigortaAplication.java" />
+        <option value="$PROJECT_DIR$/src/AAracSigortaApp/Arac.java" />
+        <option value="$PROJECT_DIR$/src/OOPAracSigorta.java" />
+        <option value="$PROJECT_DIR$/src/OOPAracSigortaApp/OOPAracSigorta.java" />
+        <option value="$PROJECT_DIR$/src/OOPAracSigortaApp/Arac.java" />
+        <option value="$PROJECT_DIR$/src/OOPAracSigortaApp/Otomobil.java" />
+        <option value="$PROJECT_DIR$/src/OOPAracSigortaApp/Kamyon.java" />
+        <option value="$PROJECT_DIR$/src/OOPAracSigortaApp/Motorsiklet.java" />
+        <option value="$PROJECT_DIR$/src/OOPAracSigortaApp/Otobüs.java" />
+        <option value="$PROJECT_DIR$/src/OOPAracSigortaApp/AracServis.java" />
+        <option value="$PROJECT_DIR$/src/OOPAracSigortaApp/AracSigortaRunner.java" />
+        <option value="$PROJECT_DIR$/src/AABiletRezervasyon/StaticBlock.java" />
+        <option value="$PROJECT_DIR$/src/AABiletRezervasyon/Bus.java" />
+        <option value="$PROJECT_DIR$/src/AABiletRezervasyon/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/AABiletRezervasyon/Yolcu.java" />
+        <option value="$PROJECT_DIR$/src/AABiletRezervasyon/YolcuService.java" />
+        <option value="$PROJECT_DIR$/src/AABiletRezervasyon/TicketService.java" />
+        <option value="$PROJECT_DIR$/src/AABiletRezervasyon/BiletRezervasyonApp.java" />
+        <option value="$PROJECT_DIR$/src/BiletRezevasyon/Yolcu.java" />
+        <option value="$PROJECT_DIR$/src/BiletRezevasyon/Bus.java" />
+        <option value="$PROJECT_DIR$/src/BiletRezevasyon/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/BiletRezevasyon/BiletRezevasyonApp.java" />
+        <option value="$PROJECT_DIR$/src/BiletRezevasyon/YolcuService.java" />
+        <option value="$PROJECT_DIR$/src/BiletRezevasyon/TicketService.java" />
+        <option value="$PROJECT_DIR$/src/LoginPage/User.java" />
+        <option value="$PROJECT_DIR$/src/LoginPage/LoginPageApp.java" />
+        <option value="$PROJECT_DIR$/src/LoginPage/UserService.java" />
       </list>
     </option>
   </component>
@@ -138,26 +180,26 @@
               <item name="SSG" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SSG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AIkiKisilikOyun" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1695844404565" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="ssg" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1696395489359" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AABiletRezervasyon" />
       <recent name="OgrenciNotSistemi" />
     </key>
   </component>
@@ -173,13 +215,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TicketRunner">
-    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KelimeTahminOyunu.Deneme" />
+  <component name="RunManager" selected="Application.LoginPageApp">
+    <configuration name="BiletRezervasyonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AABiletRezervasyon.BiletRezervasyonApp" />
       <module name="SSG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KelimeTahminOyunu.*" />
+          <option name="PATTERN" value="AABiletRezervasyon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BiletRezevasyonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BiletRezevasyon.BiletRezevasyonApp" />
+      <module name="SSG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BiletRezevasyon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilmTahminEtmeOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KelimeTahminOyunu.FilmTahminEtmeOyunu" />
+    <configuration name="LoginPageApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoginPage.LoginPageApp" />
       <module name="SSG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KelimeTahminOyunu.*" />
+          <option name="PATTERN" value="LoginPage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,25 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicketRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AYolculuk.TicketRunner" />
+    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AABiletRezervasyon.StaticBlock" />
       <module name="SSG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AYolculuk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KelimeTahminOyunu.deneme" />
-      <module name="SSG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="KelimeTahminOyunu.*" />
+          <option name="PATTERN" value="AABiletRezervasyon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TicketRunner" />
-        <item itemvalue="Application.FilmTahminEtmeOyunu" />
+        <item itemvalue="Application.LoginPageApp" />
+        <item itemvalue="Application.BiletRezevasyonApp" />
+        <item itemvalue="Application.BiletRezervasyonApp" />
+        <item itemvalue="Application.StaticBlock" />
         <item itemvalue="Application.Deneme2" />
-        <item itemvalue="Application.Deneme" />
-        <item itemvalue="Application.deneme" />
       </list>
     </recent_temporary>
   </component>
@@ -266,21 +308,21 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.15204236" />
-      <window_info id="Structure" order="1" sideWeight="0.5021645" side_tool="true" weight="0.15885022" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.093797274" />
+      <window_info id="Structure" order="1" sideWeight="0.50476193" side_tool="true" weight="0.20953101" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24632953" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32626426" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.08972268" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32952693" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.59380096" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32952693" />
@@ -295,277 +337,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/Kahve.java" />
-    <entry file="file://$USER_HOME$/Downloads/KahveAppRunner.java" />
-    <entry file="file://$PROJECT_DIR$/src/KahveMAkinesi/Kahve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KahveMAkinesi/KahveRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Deneme/PolindromSayı.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="25" column="79" selection-start-line="25" selection-start-column="79" selection-end-line="25" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LOCALDATETİME/LocalDateTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bakkal/BakkalKazanc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="72" column="30" lean-forward="true" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/IdNumber.java" />
-    <entry file="file://$USER_HOME$/Downloads/C01_stringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/Urunler.java" />
-    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/Urun.java" />
-    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/UrunService.java" />
-    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/Runner.java" />
-    <entry file="file://$PROJECT_DIR$/src/KendinYap.java" />
-    <entry file="file://$PROJECT_DIR$/src/KendinYap/Dish.java" />
-    <entry file="file://$PROJECT_DIR$/src/DersTekrar/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding>
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KendinYap/Order.java" />
-    <entry file="file://$PROJECT_DIR$/src/KendinYap/Restaurant.java" />
-    <entry file="file://$PROJECT_DIR$/src/DersTekrar/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KendinYap/DishService.java" />
-    <entry file="file://$PROJECT_DIR$/src/KendinYap/OrderService.java" />
-    <entry file="file://$PROJECT_DIR$/src/DersTekrar/DishService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="52" column="66" selection-start-line="52" selection-start-column="66" selection-end-line="52" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DersTekrar/Dish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#470#471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DersTekrar/Restaurnt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorular/kütüphane/C0_Lambda_Aciklamalar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorular/kütüphane/Kütüphane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorular/kütüphane/Kitap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorular/kütüphane/KitapService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OgrenciSınavNotuHesaplama.java" />
-    <entry file="file://$PROJECT_DIR$/out/production/SSG/lambda_practice/C0_Lambda_Aciklamalar.class" />
-    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/Depo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="35" column="33" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="33" />
-          <folding>
-            <element signature="e#1145#1146#0" expanded="true" />
-            <element signature="e#1172#1173#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/DepoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/DepoRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/soru.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="26" column="134" lean-forward="true" selection-start-line="25" selection-start-column="60" selection-end-line="26" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/KelimeTahminOyunu.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/StringLatin1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="692" selection-start-line="692" selection-end-line="692" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java" />
-    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="72" column="22" selection-start-line="58" selection-start-column="8" selection-end-line="72" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/InfoProject" />
-    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/FilmTahminEtmeOyunu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="42" column="62" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="34" column="37" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/InfoProject">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/OkulApp.java" />
-    <entry file="file://$PROJECT_DIR$/src/AYolculuk/Yolcu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AYolculuk/TicketRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Class01.java" />
     <entry file="file://$PROJECT_DIR$/src/Aencupsolution/Soru.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -585,6 +356,462 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="1425" column="19" selection-start-line="1425" selection-start-column="19" selection-end-line="1425" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DersTekrar/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DersTekrar/DishService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="47" column="81" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/InfoProject">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="44" selection-start-line="18" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1132#1133#0" expanded="true" />
+            <element signature="e#1165#1166#0" expanded="true" />
+            <element signature="e#1197#1198#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/CourseService.java" />
+    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/TeacherService.java" />
+    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/DepoRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/Depo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="e#1145#1146#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/DepoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AYolculuk/Yolcu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AYolculuk/TicketRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="5" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProjeÇalışması/soru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ATicket/Yolcu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ATicket/YolcuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="65" column="130" selection-start-line="65" selection-start-column="124" selection-end-line="65" selection-end-column="130" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ATicket/TicketRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ATicket/BiletService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ATicket/Bilet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAracSigortaApp/Arac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAracSigortaApp/AracSigortaAplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="4" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOPAracSigortaApp/Arac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+          <folding>
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOPAracSigortaApp/AracServis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOPAracSigortaApp/Otomobil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOPAracSigortaApp/Otobüs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOPAracSigortaApp/Kamyon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOPAracSigortaApp/Motorsiklet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOPAracSigortaApp/AracSigortaRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="72" column="65" selection-start-line="72" selection-start-column="65" selection-end-line="72" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="33" column="2" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AABiletRezervasyon/StaticBlock.java" />
+    <entry file="file://$PROJECT_DIR$/src/AABiletRezervasyon/Yolcu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AABiletRezervasyon/YolcuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AABiletRezervasyon/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AABiletRezervasyon/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AABiletRezervasyon/TicketService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="46" column="62" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AABiletRezervasyon/BiletRezervasyonApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="49" column="60" lean-forward="true" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BiletRezevasyon/BiletRezevasyonApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BiletRezevasyon/Yolcu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BiletRezevasyon/YolcuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="40" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BiletRezevasyon/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BiletRezevasyon/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BiletRezevasyon/TicketService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginPage/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginPage/LoginPageApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginPage/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
