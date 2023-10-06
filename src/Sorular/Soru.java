@@ -37,7 +37,7 @@ public class Soru {
             String cardNumber=inp.nextLine().replace(" ","");
             System.out.println("Lütfen şifrenizi giriniz: ");
             String cardPassword=inp.nextLine();
-            if (soruService.userList("2545365424523254","qwert12345.").containsKey(cardNumber)&&soruService.userList("2545365424523254","qwert12345.").containsValue(cardPassword)){
+            if (soruService.userList().containsKey(cardNumber)&&soruService.userList().containsValue(cardPassword)){
                 int option=-1;
                 do{
                     System.out.println("İşlem menüsüne hoşgeldiniz,yapmak istediğiniz işlemi seçiniz: ");
@@ -59,11 +59,11 @@ public class Soru {
                             break;
                         case 5:
                             //Şifre değiştirme
-                            soruService.sifreDegistir();
+                            //soruService.sifreDegistir();
 
                             break;
                         case 0:
-                            //Çıkış
+                            System.out.println("iyi günler...");
                             break;
                         default:
                             System.out.println("Hatalı giriş yaptınız...");
