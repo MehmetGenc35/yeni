@@ -1,8 +1,5 @@
-package Sorular;
+package AATM;
 
-import java.sql.SQLOutput;
-import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Scanner;
 
 public class Soru {
@@ -37,18 +34,21 @@ public class Soru {
             String cardNumber=inp.nextLine().replace(" ","");
             System.out.println("Lütfen şifrenizi giriniz: ");
             String cardPassword=inp.nextLine();
-            if (soruService.userList().containsKey(cardNumber)&&soruService.userList().containsValue(cardPassword)){
+            boolean cardNumberControl=soruService.getUser().containsKey(cardNumber);
+            boolean cardPasswordControl=soruService.getUser().containsValue(cardPassword);
+            if (cardNumberControl&&cardPasswordControl){
                 int option=-1;
                 do{
                     System.out.println("İşlem menüsüne hoşgeldiniz,yapmak istediğiniz işlemi seçiniz: ");
                     System.out.println("1-Bakiye sorgula: \n2-Para yatirma: \n3-Para çekme: \n4-Para gönderme: \n5-Şifre değiştirme: \n0-ÇIKIŞ");
                     int selection= inp.nextInt();
+                    inp.nextLine();
                     switch (selection){
                         case 1:
                             soruService.bakiyeSorgula(soruService);
                             break;
                         case 2:
-                            soruService.paraYatırma(soruService);
+                            soruService.paraYatirma(soruService);
                             break;
                         case 3:
                             soruService.paraCekme(soruService);
@@ -59,7 +59,7 @@ public class Soru {
                             break;
                         case 5:
                             //Şifre değiştirme
-                            //soruService.sifreDegistir();
+                            soruService.sifreDegistir();
 
                             break;
                         case 0:

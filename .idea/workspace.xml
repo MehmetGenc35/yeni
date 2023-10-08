@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b48049b-76e7-4762-bf68-dc97fe0556e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorular/Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorular/SoruService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AARestaurantAPP/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AARestaurantAPP/DishService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AARestaurantAPP/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AARestaurantAPP/RestaurantBillGeneratorAPP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorular/deneme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSG/LoginPage/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSG/LoginPage/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSG/Sorular/Soru.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSG/Sorular/Soru01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSG/Sorular/Soru01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SSG/Sorular/SoruService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular/Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AATM/Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular/Soru01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorular/Soru01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorular/SoruService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AATM/SoruService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +25,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sorular/Soru.java">
+        <entry file="file://$PROJECT_DIR$/src/AARestaurantAPP/RestaurantBillGeneratorAPP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="80" column="51" selection-start-line="80" selection-start-column="51" selection-end-line="80" selection-end-column="51" />
+            <state relative-caret-position="527">
+              <caret line="64" column="36" lean-forward="true" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AARestaurantAPP/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+              <folding>
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AARestaurantAPP/DishService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,13 +58,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Sorular/SoruService.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AARestaurantAPP/Dish.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="145" column="62" selection-start-line="145" selection-start-column="62" selection-end-line="145" selection-end-column="62" />
+            <state relative-caret-position="216">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,22 +85,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\pc\IdeaProjects\SSG\src\Sorular</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/DENEME.java" />
-        <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmiTahminEt.java" />
-        <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/deneme.java" />
-        <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme.java" />
-        <option value="$PROJECT_DIR$/src/Yolculuk/Soru.java" />
-        <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/Deneme2.java" />
-        <option value="$PROJECT_DIR$/src/KelimeTahminOyunu/FilmTahminEtmeOyunu.java" />
-        <option value="$PROJECT_DIR$/src/IkiKisilikOyun/Soru.java" />
-        <option value="$PROJECT_DIR$/src/AYolculuk/Yolcu.java" />
-        <option value="$PROJECT_DIR$/src/AYolculuk/TicketRunner.java" />
         <option value="$PROJECT_DIR$/src/Aencupsolution/Soru.java" />
         <option value="$PROJECT_DIR$/src/AOkulSistemi/Student.java" />
         <option value="$PROJECT_DIR$/src/AOkulSistemi/Course.java" />
@@ -105,8 +135,18 @@
         <option value="$PROJECT_DIR$/src/LoginPage/User.java" />
         <option value="$PROJECT_DIR$/src/LoginPage/LoginPageApp.java" />
         <option value="$PROJECT_DIR$/src/LoginPage/UserService.java" />
-        <option value="$PROJECT_DIR$/src/Sorular/Soru.java" />
         <option value="$PROJECT_DIR$/src/Sorular/SoruService.java" />
+        <option value="$PROJECT_DIR$/src/Sorular/Soru.java" />
+        <option value="$PROJECT_DIR$/src/AATM/Soru.java" />
+        <option value="$PROJECT_DIR$/src/Sorular/Soru01.java" />
+        <option value="$PROJECT_DIR$/src/Sorular/deneme.java" />
+        <option value="$PROJECT_DIR$/src/Kontrol.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/Kontrol2.java" />
+        <option value="$PROJECT_DIR$/src/AARestaurantAPP/Dish.java" />
+        <option value="$PROJECT_DIR$/src/AARestaurantAPP/DishService.java" />
+        <option value="$PROJECT_DIR$/src/AARestaurantAPP/RestaurantBillGeneratorAPP.java" />
+        <option value="$PROJECT_DIR$/src/AARestaurantAPP/Order.java" />
       </list>
     </option>
   </component>
@@ -136,19 +176,6 @@
               <item name="SSG" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SSG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Sorular" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Sorular" type="462c0819:PsiDirectoryNode" />
-              <item name="kütüphane" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -162,7 +189,7 @@
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="ssg" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1696594121899" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1696765929056" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -184,29 +211,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Soru">
-    <configuration name="BiletRezervasyonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AABiletRezervasyon.BiletRezervasyonApp" />
+  <component name="RunManager" selected="Application.RestaurantBillGeneratorAPP">
+    <configuration name="Kontrol2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kontrol2" />
       <module name="SSG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AABiletRezervasyon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BiletRezevasyonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BiletRezevasyon.BiletRezevasyonApp" />
-      <module name="SSG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BiletRezevasyon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -224,8 +232,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RestaurantBillGeneratorAPP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AARestaurantAPP.RestaurantBillGeneratorAPP" />
+      <module name="SSG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AARestaurantAPP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorular.Soru" />
+      <option name="MAIN_CLASS_NAME" value="AATM.Soru" />
+      <module name="SSG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AATM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorular.deneme" />
       <module name="SSG" />
       <extension name="coverage">
         <pattern>
@@ -237,26 +271,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AABiletRezervasyon.StaticBlock" />
-      <module name="SSG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AABiletRezervasyon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RestaurantBillGeneratorAPP" />
+        <item itemvalue="Application.Kontrol2" />
+        <item itemvalue="Application.deneme" />
         <item itemvalue="Application.Soru" />
         <item itemvalue="Application.LoginPageApp" />
-        <item itemvalue="Application.BiletRezevasyonApp" />
-        <item itemvalue="Application.BiletRezervasyonApp" />
-        <item itemvalue="Application.StaticBlock" />
       </list>
     </recent_temporary>
   </component>
@@ -274,10 +295,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4952381" weight="0.1913767" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.1709531" />
       <window_info id="Structure" order="1" sideWeight="0.50476193" side_tool="true" weight="0.20953101" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -286,12 +307,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32626426" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47634584" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40130505" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25774878" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7504078" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.29526916" />
@@ -306,91 +327,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AOgrenciNotSistemi/OgrenciSınavNotuHesaplama.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIkiKisilikOyun/Soru.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="1425" column="19" selection-start-line="1425" selection-start-column="19" selection-end-line="1425" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DersTekrar/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DersTekrar/DishService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="47" column="81" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="81" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/InfoProject">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="44" selection-start-line="18" selection-end-line="29" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1132#1133#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-            <element signature="e#1197#1198#0" expanded="true" />
-            <element signature="e#1244#1245#0" expanded="true" />
-            <element signature="e#1286#1287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/CourseService.java" />
     <entry file="file://$PROJECT_DIR$/src/AOkulSistemi/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -776,22 +712,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorular/Soru.java">
+    <entry file="file://$PROJECT_DIR$/src/Sorular/deneme.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="80" column="51" selection-start-line="80" selection-start-column="51" selection-end-line="80" selection-end-column="51" />
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sorular/Soru01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AATM/SoruService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorular/SoruService.java">
+    <entry file="file://$PROJECT_DIR$/src/AATM/Soru.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="145" column="62" selection-start-line="145" selection-start-column="62" selection-end-line="145" selection-end-column="62" />
+        <state relative-caret-position="-34">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="285" column="5" selection-start-line="272" selection-start-column="4" selection-end-line="285" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kontrol2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AARestaurantAPP/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AARestaurantAPP/DishService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AARestaurantAPP/RestaurantBillGeneratorAPP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="64" column="36" lean-forward="true" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AARestaurantAPP/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+          <folding>
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
           </folding>
         </state>
       </provider>

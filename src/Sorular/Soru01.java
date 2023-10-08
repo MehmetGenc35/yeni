@@ -2,6 +2,7 @@ package Sorular;
 
 import java.util.Scanner;
 
+
 public class Soru01 {
     public static void main(String[] args) {
 

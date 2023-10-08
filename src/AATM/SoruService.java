@@ -1,4 +1,4 @@
-package Sorular;
+package AATM;
 
 import java.util.HashMap;
 import java.util.Scanner;
@@ -10,25 +10,17 @@ public class SoruService {
     private String userPassword="qwert12345.";
     private HashMap<String,String>user=new HashMap<>();
 
-/*
-public HashMap<String,String> userList(String userCard,String userPassword){
-        userCard="2545365424523254";
-        userPassword="qwert12345.";
-        this.userCard=userCard;
-        this.userPassword=userPassword;
-        this.user.put(userCard,userPassword);
+    public HashMap<String, String> getUser() {
         return user;
     }
- */
+
+
 
     public SoruService() {
     this.bakiye.put("bakiye",1000);
+    this.user.put(userCard,userPassword);
+    }
 
-    }
-    public HashMap<String,String> userList(){
-        this.user.put(userCard,userPassword);
-        return user;
-    }
 
     public void bakiyeSorgula(SoruService soruService) {
 
@@ -36,7 +28,7 @@ public HashMap<String,String> userList(String userCard,String userPassword){
 
     }
 
-    public void paraYatırma(SoruService soruService) {
+    public void paraYatirma(SoruService soruService) {
 
         boolean secim =false;
         int money;
@@ -135,11 +127,12 @@ public HashMap<String,String> userList(String userCard,String userPassword){
         do {
             System.out.println("Eski şifrenizi giriniz: ");
             String oldPassword=inp.nextLine();
-            if(oldPassword.equals(this.userList().get("2545365424523254"))){
+            if(oldPassword.equals(this.user.get("2545365424523254"))){
                 System.out.println("Yeni şifrenizi giriniz: ");
                 String newPassword=inp.nextLine();
 
-                this.userList().replace("2545365424523254", oldPassword ,newPassword);
+
+                this.user.replace("2545365424523254", oldPassword ,newPassword);
 
                 System.out.println("Şifreniz güncellenmiştir...");
                 secim=0;
